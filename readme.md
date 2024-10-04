@@ -25,19 +25,19 @@ Follow the steps below to get the game up and running on your local machine.
 ### Step 1: Clone the Repository
 Clone the repository from GitHub to your local machine:
 ```sh
-git clone https://github.com/yourusername/snake-game.git
+git clone https://github.com/kuldeepghodasara/AI-Snake-Game-With-Python-PyGame.git
 ```
 
 ### Step 2: Navigate to the Project Directory
 Change to the project directory:
 ```sh
-cd snake-game
+cd AI-Snake-Game-With-Python-PyGame
 ```
 
 ### Step 4: Run the Game
 Run the Python script to start the game:
 ```sh
-python snake_game.py
+python game.py
 ```
 
 ## How to Play
